@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 Основные инструменты:
 Python   Pandas   NumPy   Jupyter   SQL   PostgreSQL  Tableau   Git   GitHub   GitLab  Airflow
 
-📫 Cвязаться со мной: Telegram [Badge](https://t.me/o_k_s1) Gmail omuadelecz@gmail.com
+📫 Cвязаться со мной: [Telegram](https://t.me/o_k_s1) Gmail omuadelecz@gmail.com
 
