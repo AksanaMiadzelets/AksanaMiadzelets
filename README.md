@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Основные инструменты:
+Python   Pandas   NumPy   Jupyter   SQL   PostgreSQL  Tableau   Git   GitHub   GitLab  Airflow
