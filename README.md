@@ -1,6 +1,6 @@
 ### Hi, I'm Oksana Miadzelets 👋
 
-<!--
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
