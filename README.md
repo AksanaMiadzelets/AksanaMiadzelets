@@ -15,7 +15,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" title="Clickhouse" alt="Clickhouse" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="Redash" width="40" height="40"/>&nbsp;
-  <img src="https://images.ctfassets.net/xz1dnu24egyd/34YxRn5oCEOVpoSxeMeJ8k/a820ba3fc624b6a9ee161a965dfe8419/gitlab-logo-200.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://iconduck.com/icons/13028/gitlab-original-wordmark" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   
   
   
