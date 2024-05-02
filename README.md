@@ -16,9 +16,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="Redash" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-  
-  
-  
+ 
   />
 </div>
 
