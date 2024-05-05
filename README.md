@@ -1,5 +1,10 @@
-### Hi, I'm Oksana Miadzelets 👋
-
+### Привет, меня зовут Оксана 👋
+ Занимаюсь анализом данных 📈
+ 
+ Мои контакты:
+📲 [Telegram](url) (предпочитаемый способ связи)
+💻 [LinkedIn](url)
+📫 omuadelecz@gmail.com
 
 
 ---
@@ -30,21 +35,18 @@
 
 **AksanaMiadzelets/AksanaMiadzelets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Навыки:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Владею статистическими тестами для оценки гипотез с помощью Python;
+- Оценка результатов А/В тестов;
+- SQL: сложные запросы, оконные функции;
+- Работа c системой контроля версий Git;
+- Построение дашбордов в Tableau;
+- Формирование ad-hoc запросов
+- Владею ключевыми метриками продукта: DAU, WAU, MAU, CRR, Churn Rate, CR, CAC, ARPU, ARPPU, LTV, ROI, ROMI, ROAS;
+- Умею автоматизировать процессы через Airflow
 
 
 Основные инструменты:
 Python   Pandas   NumPy   Jupyter   SQL   PostgreSQL  Tableau   Git   GitHub   GitLab  Airflow
-
-📫 Cвязаться со мной: [Telegram](https://t.me/o_k_s1) Gmail omuadelecz@gmail.com
 
