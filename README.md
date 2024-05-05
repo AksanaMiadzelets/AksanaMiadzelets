@@ -51,7 +51,7 @@
 
 | Название проекта| Описание | Стек |
 |---|---|---|
-| 1. [Оценка результатов A/B тестирования образовательной платформы ](https://github.com/AksanaMiadzelets/AB_test_and_SQL_e-learning) | Выбор и расчет небходимых метрик (средний чек клиента, CR в покупку, ARPU, ARPPU); применения статтестов (t-тест, хи-квадрат) для проверки гипотез по каждой метрке; расчет метрик с помощью SQL-запроса |  Python (Pandas, NumPy, SciPy, Seaborn, Matplotlib, Pandahouse, ClickHouse, SQL) |
+| 1. [Оценка результатов A/B тестирования образовательной платформы ](https://github.com/AksanaMiadzelets/AB_test_and_SQL_e-learning) | Выбор и расчет небходимых метрик (средний чек клиента, CR в покупку, ARPU, ARPPU); применение статтестов (t-тест, хи-квадрат) для проверки гипотез по каждой метрике; расчет метрик с помощью SQL-запроса |  Python (Pandas, NumPy, SciPy, Seaborn, Matplotlib, Pandahouse, ClickHouse, SQL) |
 | 2. [RFM-анализ](https://github.com/AksanaMiadzelets/RFM_analysis) | Сегментация пользователей на 4 класса с использованием RFM-оценок | Python (Pandas, NumPy, Seaborn, Matplotlib) |
 | 3. [Дашборд для отдела привлечения клиентов сети отелей](https://github.com/AksanaMiadzelets/Tableau_project_hotel_bookings) | Сбор требований заказчика; Составление Dashboard Canvas; Построение дашборда в Tableau | Tableau |
 
