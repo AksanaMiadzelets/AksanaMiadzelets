@@ -12,7 +12,7 @@
 
 
 ---
-### Languages and Tools :
+### Языки и инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg?plain=1" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original-wordmark.svg?plain=1" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
