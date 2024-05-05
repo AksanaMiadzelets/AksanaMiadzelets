@@ -30,11 +30,13 @@
  
   />
 </div>
-
+### Мои проекты:
 ---
 | Название проекта| Описание | Стек |
 |---|---|---|
-
+| 1. [Оценка результатов A/B тестирования образовательной платформы ](url) | Выбор и расчет небходимых метрик (средний чек клиента, CR в покупку, ARPU, ARPPU); применения статтестов (t-тест, хи-квадрат) для проверки гипотез по каждой метрке; расчет метрик с помощью SQL-запроса |  Python (Pandas, NumPy, SciPy, Seaborn, Matplotlib, Pandahouse, ClickHouse, SQL) |
+| 2. [RFM-анализ](url) | Сегментация пользователей на 4 класса с использованием RFM-оценок | Python (Pandas, NumPy, Seaborn, Matplotlib) |
+| 3. [Дашборд для отдела привлечения клиентов сети отелей](url) | Сбор требований заказчика; Составление Dashboard Canvas; Построение дашборда в Tableau | Tableau |
 
 
 **AksanaMiadzelets/AksanaMiadzelets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
