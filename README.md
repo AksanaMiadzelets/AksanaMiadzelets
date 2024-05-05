@@ -26,9 +26,6 @@
   <img src="https://www.vectorlogo.zone/logos/redashio/redashio-icon.svg" title="Redash" alt="Redash" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apacheairflow/apacheairflow-original.svg?plain=1" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>&nbsp;
-
- 
-  />
 </div>
 
 
