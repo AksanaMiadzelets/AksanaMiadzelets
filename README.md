@@ -57,4 +57,4 @@
 
 ---
 
-![Oksana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AksanaMiadzelets&theme=dark&show_icons=true)
+![Oksana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AksanaMiadzelets&theme=slateorange_icons=true)
