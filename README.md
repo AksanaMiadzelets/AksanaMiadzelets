@@ -57,5 +57,5 @@
 
 ---
 
-![Oksana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AksanaMiadzelets&?theme=great-gatsby_icons=true)
 ![Oksana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AksanaMiadzelets&theme=dark&show_icons=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
