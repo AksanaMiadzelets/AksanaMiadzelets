@@ -58,4 +58,4 @@
 ---
 
 ![Oksana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AksanaMiadzelets&theme=dark&show_icons=true)
-![](https://komarev.com/ghpvc/?username=AksanaMiadzelets&color=yellowstyle=plastic)
+![](https://komarev.com/ghpvc/?username=AksanaMiadzelets&color=yellow&style=plastic)
