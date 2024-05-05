@@ -54,7 +54,3 @@
 - Владею ключевыми метриками продукта: DAU, WAU, MAU, CRR, Churn Rate, CR, CAC, ARPU, ARPPU, LTV, ROI, ROMI, ROAS;
 - Умею автоматизировать процессы через Airflow
 
-
-Основные инструменты:
-Python   Pandas   NumPy   Jupyter   SQL   PostgreSQL  Tableau   Git   GitHub   GitLab  Airflow
-
