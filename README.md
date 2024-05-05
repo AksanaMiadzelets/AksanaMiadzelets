@@ -8,9 +8,9 @@
  
 📲 [Telegram](https://t.me/o_k_s1) (предпочитаемый способ связи)
 
-💻 [LinkedIn](https://www.linkedin.com/in/oksana-miadzelets/)
+🖥 [LinkedIn](https://www.linkedin.com/in/oksana-miadzelets/)
 
-📫 omuadelecz@gmail.com
+📩 omuadelecz@gmail.com
 
 
 ---
